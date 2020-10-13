@@ -41,6 +41,6 @@ beautiful Team table to work with, mentors to guide us
 ###### When it will be?
 ##### Next month, don't miss the chance, Nina
 ###### Thanks Tom, I will register today itself
-##### Thank you Nina
+##### Thank you Nina, see you then
 
 
