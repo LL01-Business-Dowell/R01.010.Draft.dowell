@@ -1,6 +1,6 @@
 # Digital Twin of Online Meeting Notetaker
 ## DoWell Hackathon Event
-### Concept Board
+### Story Board
 
 #### Who is Digital Twin of Online Notetaker?
 ###### Online Identity;
