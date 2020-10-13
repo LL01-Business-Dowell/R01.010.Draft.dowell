@@ -30,16 +30,16 @@
 
 ###### So simple and clear, Its interesting too
 
-##### Also each team is assigned exclusive interaction room, team management options, 
-Team table to work with, mentors to guide us
+##### Also each team is assigned with exclusive interaction room, team management software, 
+beautiful Team table to work with, mentors to guide us
 
 ###### Then how your team works
 ##### Everything is online, We can have meeting with mentor and submit our ideation, Judges will review it every alternate days
 
-###### Its really supportive and contributory, How I can be a part of this
+###### Wow, Its really supportive, How I can be a part of this
 ##### I asked the same question for my friends today, dowell said that they will take new teams in next level of Ideation
 ###### When it will be?
-##### Next month, don't miss the chance
+##### Next month, don't miss the chance, Nina
 ###### Thanks Tom, I will register today itself
 ##### Thank you Nina
 
