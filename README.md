@@ -1,2 +1,8 @@
-# R01.010.Draft.dowell
-Create draft here before publishing to any platform
+# Digital Twin of Online Meeting Notetaker
+## DoWell Hackathon Event
+### Concept Board
+Who
+What
+Where
+When
+Why
