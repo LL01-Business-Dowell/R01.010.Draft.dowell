@@ -12,39 +12,32 @@
 
 #### You can follow in Github, Youtube, Linkedin, Twitter, Facebook, Instagram and their websites
 
-###### Really? can you brief what you have done for today
+###### Really? can you brief what you have done today
 
 #### Today we had an orientation meeting online, they explained the concept, how to execute and judgment rules
 
-#### Here is the notes I have taken
+#### Here is the important questions explained
 
 #### Who is Digital Twin of Online Notetaker?
-###### Online Identity;
-###### Able to See, Hear and Speak like a human; 
-###### Any language
 
 #### What Digital Twin of Online Notetaker will do in a meeting?
-###### Live presence in the discussions;
-###### Record voice, screen shots;
-###### Take notes with speaker identification;
-###### Simultaneous translation & transcription
 
 #### Where Digital Twin of Online Notetaker will be present?
-###### Any online meeting;
-###### Look like a humanoid / hologram;
-###### Invited to meeting like a participant
 
 #### When Digital Twin of Online Notetaker will act?
-###### Important topics based on agenda;
-###### Ask doubts to other participants when the digital twin cant understand;
-###### Reconfirm the minutes with participants
 
-#### Why Digital Twin of Online Notetaker is needed now?
-###### Record minutes of online meeting;
-###### Simultaneous translation and transcription
+#### Why Digital Twin of Online Notetaker is needed?
 
-###### So simple and clear, Its interesting too. How I can take part in this
-##### I asked the same question today, they said they will take new teams in next level of Ideation
+###### So simple and clear, Its interesting too
+
+##### Also each team is assigned exclusive interaction room, team management options, 
+Team table to work with, mentors to guide us
+
+###### Then how your team works
+##### Everything is online, We can have meeting with mentor and submit our ideation, Judges will review it every alternate days
+
+###### Its really supportive and contributory, How I can be a part of this
+##### I asked the same question for my friends today, dowell said that they will take new teams in next level of Ideation
 ###### When it will be?
 ##### Next month, don't miss the chance
 ###### Thanks Tom, I will register today itself
