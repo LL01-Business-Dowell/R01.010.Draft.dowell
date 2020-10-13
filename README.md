@@ -1,5 +1,5 @@
 # R01.010.Draft.dowell
-Create draft here before publishing to any platform
+Create draft here before publishing to any platform, take a branch and prepare your draft
 
 ### Blog 001 - H1001 Orientation day of digital twin 13 oct 2020
 
