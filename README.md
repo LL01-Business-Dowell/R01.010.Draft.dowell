@@ -1,4 +1,4 @@
-### Dowell Hackathon Orientation
+# Dowell Hackathon Orientation
 
 Dowell Hackathon is underway.
 The hackathon kicked off, even as the registration for the first phase of the ideation process closed.
@@ -6,18 +6,18 @@ Ten teams have been selected after scrutiny.
 The orientation meeting was conducted  and participants were briefed by the mentors on the concept, execution and judgment rules.
 The mentors opened up to the participants queries and clarified all aspects of the hackathon.
 Some of the important queries were 
-# 1. Who is Digital twin of online meeting Note taker?
+### 1. Who is Digital twin of online meeting Note taker?
 
-# 2. What Digital twin of online meeting note taker does in a meeting? 
+### 2. What Digital twin of online meeting note taker does in a meeting? 
 
-# 3. Why Digital twin of online note maker is needed?
+### 3. Why Digital twin of online note maker is needed?
 
 Each team is provided with an exclusive interaction room, team management software and guided by our able mentors.
 Everything works online.
 he teams submit their ideation to the mentors and judges review it every alternate day.
 Dowell is providing another opportunity for those who missed out this time and they can register for the second phase of ideation starting next month.
 
-![Copy of Copy of Living lab (1)](https://user-images.githubusercontent.com/68909712/95673951-9ff70f00-0bca-11eb-8680-43e62aeb23f5.jpg)
+![Copy of Copy of Living lab (1)](https://github.com/LL01-Business-Dowell/R01.010.Draft.dowell/blob/Dowell-Hackathon-Orientation/picture.png?raw=true)
 
 
 
