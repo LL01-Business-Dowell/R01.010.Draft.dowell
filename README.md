@@ -1,10 +1,17 @@
-### Dowell Hackathon Journey
+### Dowell Hackathon Orientation
 
-Feeling really excited as the team for our hackathon is all ready and set
-More and more participants are registering even as this is written.
-10 or more different teams are set up consisting of  participants and with one mentor for each team.
-The coming days will see discussions among team members with mentors giving clarifications to the participants queries.
-Each and every participant gets an opportunity to learn more about the hackathon from our mentors and by the time the hackathon is kicked off, participants will be placed perfectly to put their ideas on canvas.
+Dowell Hackathon is underway.
+The hackathon kicked off, even as the registration for the first phase of the ideation process closed.
+Ten teams have been selected after scrutiny.
+The orientation meeting was conducted  and participants were briefed by the mentors on the concept, execution and judgment rules.
+The mentors opened up to the participants queries and clarified all aspects of the hackathon.
+Some of the important queries were 1. Who is Digital twin of online meeting Note taker? 2. What Digital twin of online meeting note taker does in a meeting?  
+3. Why Digital twin of online note maker is needed?
+Each team is provided with an exclusive interaction room, team management software and guided by our able mentors.
+Everything works online.
+he teams submit their ideation to the mentors and judges review it every alternate day.
+Dowell is providing another opportunity for those who missed out this time and they can register for the second phase of ideation starting next month.
+
 
 
 
