@@ -2,6 +2,8 @@
 
 ## DoWell Hackathon Event
 
+![Copy of Copy of Living lab (1)](https://github.com/LL01-Business-Dowell/R01.010.Draft.dowell/blob/Dowell-Hackathon---Digital-Twin/photo1.png?raw=true)
+
 Dowell is conducting a global hackathon event online on the digital twin of meeting note taker for innovative and talented young minds.
 The concept of meeting note taker is proposed to be an online identity with characteristics of a humanoid, which can take part in any online meeting and take notes from the speaker.
 
