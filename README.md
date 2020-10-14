@@ -1,5 +1,7 @@
 ### Dowell Hackathon Journey
 
+[![Image of Yaktocat](https://github.com/DowellLivingLab/Digital-Twin-Note-Taker-Ideation.Dowell/blob/website/new.png?raw=true)](https://www.youtube.com/watch?v=jRPDjb2n9nM&list=PLZ4OHsOi85SX_TpKmCTi9Cg6CxeJ3d_Xy&index=1 ){:target="_blank" }
+
 Feeling really excited as the team for our hackathon is all ready and set
 More and more participants are registering even as this is written.
 10 or more different teams are set up consisting of  participants and with one mentor for each team.
