@@ -43,4 +43,7 @@ beautiful Team table to work with, mentors to guide us
 ###### Thanks Tom, I will register today itself
 ##### Thank you Nina, see you then
 
-
+###### V1 of Audio - 
+https://members.ttsaudiomaker.com/?project_id=216
+###### V1 of video
+https://www.canva.com/design/DAEKfgZXmoA/PQI588-QRaYtHVC0MHGULg/watch?utm_content=DAEKfgZXmoA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
