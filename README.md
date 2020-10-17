@@ -1,4 +1,4 @@
-# Dowell Hackathon Orientation
+# Digital Twin of Online Notetaker - Dowell Hackathon Event Orientation Day
 
 Dowell Hackathon is underway.
 The hackathon kicked off, even as the registration for the first phase of the ideation process closed.
