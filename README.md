@@ -21,6 +21,8 @@ DoWell is providing another opportunity for those who missed out this time and t
 
 
 
+[![Image of Yaktocat](https://github.com/DowellLivingLab/Digital-Twin-Note-Taker-Ideation.Dowell/blob/website/new.png?raw=true)](https://www.youtube.com/watch?v=jRPDjb2n9nM&list=PLZ4OHsOi85SX_TpKmCTi9Cg6CxeJ3d_Xy&index=1 )
+
 
 
 
